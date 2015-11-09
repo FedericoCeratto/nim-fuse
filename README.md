@@ -2,7 +2,7 @@
 
 A FUSE Binding for Nim
 
-[![Build Status](https://travis-ci.org/akiradeveloper/nim-fuse.svg)](https://travis-ci.org/akiradeveloper/nim-fuse)
+[![Build Status](https://travis-ci.org/FedericoCeratto/nim-fuse.svg)](https://travis-ci.org/FedericoCeratto/nim-fuse)
 
 The aim of nim-fuse is to provide the fast, safe and portable
 fuse implementation and to show a real-world application of Nim language.
